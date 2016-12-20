@@ -11,6 +11,7 @@
 
 @implementation DynamicOpenMenth
 
+//动态链对外开发方法
 - (void)startWithObject:(id)object withBundle:(NSBundle *)bundle {
 
     //初始化第一个controller
